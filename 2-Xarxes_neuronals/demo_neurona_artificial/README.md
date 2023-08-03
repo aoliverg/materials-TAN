@@ -20,6 +20,5 @@ Executa el programa i verifica si ofereix la solució correcta.
 Fes modificacions al programa:
 
 - Verifica el valor de sortida per a una entrada diferent
-- Canvia la funció d'activació
 - Canvia el problema a resoldre
   
