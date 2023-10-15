@@ -10,4 +10,7 @@ z = [max(0, i) for i in x]
 plt.subplots(figsize=(8, 5))
 plt.plot(x, z)
 plt.grid()
+plt.title("Rectificador o ReLU")
+plt.ylabel("Activació F(x)")
+plt.xlabel("Estímul x")
 plt.show()
